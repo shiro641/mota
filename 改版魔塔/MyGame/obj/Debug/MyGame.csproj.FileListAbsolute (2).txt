@@ -1,0 +1,12 @@
+C:\Users\86189\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\86189\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\86189\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.Battle4form.resources
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\86189\source\repos\MyGame\MyGame\obj\Debug\MyGame.Shop.resources
